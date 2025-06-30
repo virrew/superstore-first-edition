@@ -1,5 +1,3 @@
-# superstore-first-edition
-
 # Superstore Dashboard – First Edition
 
 This is my first Tableau dashboard, created as part of my Business Intelligence learning journey.  
