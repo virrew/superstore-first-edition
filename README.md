@@ -2,7 +2,7 @@
 
 # Superstore Dashboard – First Edition
 
-📊 This is my first Tableau dashboard, created as part of my Business Intelligence learning journey.  
+This is my first Tableau dashboard, created as part of my Business Intelligence learning journey.  
 It is based on the Superstore sample dataset and focuses on key sales performance metrics.
 
 ## 🧠 Project Goals
