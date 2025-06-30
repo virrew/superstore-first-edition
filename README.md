@@ -13,7 +13,7 @@ It is based on the Superstore sample dataset and focuses on key sales performanc
 - Profit Margin (%)
 - Return Rate (%)
 - Average Order Value (kr)
-- Top 3 Sellers
+- Top Sellers
 
 ## 🖼️ Screenshot
 
